@@ -1,6 +1,7 @@
 ## Matheus Campos - Student - Front-end Developer - Technology Enthusiast ⌨🖱
-<div align="center">
+<div align="center" style="background-color: #292929;">
   <a href="https://github.com/matheuscampos-it" target="_blank">
+  background-color: #292929;
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscampos-it&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscampos-it&layout=compact&langs_count=7&theme=aura"/>
 </div>
